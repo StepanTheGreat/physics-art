@@ -1,0 +1,9 @@
+# Ignoring output files, because I have A LOT of them
+*.mp4
+*.avi
+*.jpg
+*.png
+colors.bin
+
+!example.jpg
+# Just a default picture for the example

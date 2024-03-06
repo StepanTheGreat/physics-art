@@ -1,0 +1,5 @@
+ffmpeg-python==0.2.0
+numpy==1.26.3
+opencv-python==4.9.0.80
+pygame==2.4.0
+pymunk==6.6.0
