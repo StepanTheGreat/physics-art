@@ -1,5 +1,7 @@
 # A physics art generator
 
+![Screenshot of the result](/result.png)
+
 The secret behind this interesting visualisation is very simple - I don't compute anything. I'm just simulating the balls and color them in the
 end. That means that I can run absolutely ANY simulation, and it will always give the image I want.
 In this example I also added recording with ffmpeg and cv2 to write video-files directly.
